@@ -8,3 +8,4 @@ find_package(Boost 1.76)
 include_directories(Boost::boost)
 
 add_subdirectory(01)
+add_subdirectory(02)
