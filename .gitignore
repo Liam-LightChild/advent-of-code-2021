@@ -1,4 +1,2 @@
-**/input.txt # no input for u!
-
 # Project exclude paths
-/cmake-build-debug/
+/cmake-build-*
